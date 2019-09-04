@@ -1,0 +1,43 @@
+h4, p {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  width: 250px;
+  border: 1px solid rgb(202, 202, 202);
+  border-radius: 5px;
+  margin: 30px;
+}
+.card-title {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.card-text {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.img {
+  width: 100%;
+}
+.none {
+  display: none;
+}
+
+.card-body {
+  padding: 0 10px 20px;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgb(68, 122, 240);
+  padding: 10px;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(16, 56, 143);
+}
